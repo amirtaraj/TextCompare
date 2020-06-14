@@ -1,0 +1,19 @@
+{
+  "name": "textcompare",
+  "version": "1.0.0",
+  "description": "simple text compare framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirtaraj/TextCompare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirtaraj/TextCompare/issues"
+  },
+  "homepage": "https://github.com/amirtaraj/TextCompare#readme"
+}
